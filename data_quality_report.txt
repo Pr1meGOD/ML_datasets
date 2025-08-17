@@ -1,0 +1,171 @@
+2025-08-17 19:03:43: Starting comprehensive data preparation...
+2025-08-17 19:03:44: Loaded dataset: (1048575, 10)
+2025-08-17 19:03:44: Columns: ['State', 'District', 'Crop Name', 'Crop Season', 'Soil Type', 'Yield', 'Production', 'Rainfall (mm)', 'Year', 'Area']
+2025-08-17 19:03:44: === STARTING UNIT VALIDATION ===
+2025-08-17 19:03:44: Original yield stats: min=0.000, max=43958.330, mean=99.873
+2025-08-17 19:03:44: Crop arecanut: 735 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:44: Crop arhar/tur: 6893 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:44: Crop castor seed: 5862 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:44: Crop coconut: 12147 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:44: Crop cotton(lint): 4399 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:44: Crop dry chillies: 2779 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:44: Crop gram: 4648 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:44: Crop jute: 889 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:44: Crop linseed: 8361 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:44: Crop maize: 45564 invalid yields (expected 3.0-15.0 t/ha)
+2025-08-17 19:03:44: Crop mesta: 511 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop niger seed: 4876 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop onion: 7995 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop other rabi pulses: 4843 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop potato: 483 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop rapeseed &mustard: 9984 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop rice: 54215 invalid yields (expected 2.0-12.0 t/ha)
+2025-08-17 19:03:45: Crop sesamum: 16831 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop small millets: 10015 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop sugarcane: 18209 invalid yields (expected 40.0-150.0 t/ha)
+2025-08-17 19:03:45: Crop sweet potato: 726 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop tapioca: 149 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop tobacco: 1520 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop turmeric: 631 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop wheat: 29493 invalid yields (expected 2.5-8.0 t/ha)
+2025-08-17 19:03:45: Crop bajra: 1781 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop black pepper: 274 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop cardamom: 66 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop coriander: 5513 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop garlic: 48 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop ginger: 48 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:45: Crop groundnut: 6435 invalid yields (expected 1.0-4.0 t/ha)
+2025-08-17 19:03:45: Crop horse-gram: 10049 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop jowar: 1939 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop ragi: 3100 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop cashewnut: 1782 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop banana: 9516 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop soyabean: 415 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop barley: 399 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop khesari: 2749 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop masoor: 7409 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop moong(green gram): 24086 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop other kharif pulses: 7030 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop safflower: 2710 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop sannhamp: 2690 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop sunflower: 2667 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop urad: 14559 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop peas & beans (pulses): 5961 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop other oilseeds: 230 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop other cereals: 83 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop cowpea(lobia): 267 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop oilseeds total: 105 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop guar seed: 648 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop other summer pulses: 3 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Crop moth: 2798 invalid yields (expected 0.5-15.0 t/ha)
+2025-08-17 19:03:46: Removed 34754 outlier records (3.3%)
+2025-08-17 19:03:46: Final yield stats: min=0.130, max=50.000, mean=2.864
+2025-08-17 19:03:47: === STARTING INTELLIGENT IMPUTATION ===
+2025-08-17 19:03:47: Imputing 1013821 unknown soil types
+2025-08-17 19:03:47: State assam: imputed 239948 soil types as 'alluvial'
+2025-08-17 19:03:47: State karnataka: imputed 1337 soil types as 'red'
+2025-08-17 19:03:47: State kerala: imputed 452 soil types as 'laterite'
+2025-08-17 19:03:47: State meghalaya: imputed 640 soil types as 'alluvial'
+2025-08-17 19:03:47: State west bengal: imputed 1034 soil types as 'alluvial'
+2025-08-17 19:03:47: State puducherry: imputed 575 soil types as 'alluvial'
+2025-08-17 19:03:47: State goa: imputed 2789 soil types as 'alluvial'
+2025-08-17 19:03:47: State andhra pradesh: imputed 150743 soil types as 'red'
+2025-08-17 19:03:47: State tamil nadu: imputed 749 soil types as 'red'
+2025-08-17 19:03:47: State odisha: imputed 732 soil types as 'laterite'
+2025-08-17 19:03:47: State bihar: imputed 308494 soil types as 'alluvial'
+2025-08-17 19:03:47: State gujarat: imputed 96946 soil types as 'black'
+2025-08-17 19:03:47: State madhya pradesh: imputed 839 soil types as 'black'
+2025-08-17 19:03:47: State maharashtra: imputed 735 soil types as 'black'
+2025-08-17 19:03:47: State mizoram: imputed 413 soil types as 'alluvial'
+2025-08-17 19:03:47: State punjab: imputed 367 soil types as 'alluvial'
+2025-08-17 19:03:47: State uttar pradesh: imputed 802 soil types as 'alluvial'
+2025-08-17 19:03:47: State haryana: imputed 551 soil types as 'alluvial'
+2025-08-17 19:03:48: State himachal pradesh: imputed 607 soil types as 'alluvial'
+2025-08-17 19:03:48: State tripura: imputed 427 soil types as 'alluvial'
+2025-08-17 19:03:48: State nagaland: imputed 652 soil types as 'alluvial'
+2025-08-17 19:03:48: State chhattisgarh: imputed 158194 soil types as 'alluvial'
+2025-08-17 19:03:48: State uttarakhand: imputed 732 soil types as 'alluvial'
+2025-08-17 19:03:48: State jharkhand: imputed 269 soil types as 'alluvial'
+2025-08-17 19:03:48: State delhi: imputed 338 soil types as 'alluvial'
+2025-08-17 19:03:48: State manipur: imputed 428 soil types as 'alluvial'
+2025-08-17 19:03:48: State jammu and kashmir: imputed 607 soil types as 'mountain'
+2025-08-17 19:03:48: State telangana: imputed 378 soil types as 'alluvial'
+2025-08-17 19:03:48: State arunachal pradesh: imputed 41259 soil types as 'alluvial'
+2025-08-17 19:03:48: State sikkim: imputed 225 soil types as 'alluvial'
+2025-08-17 19:03:48: State andaman and nicobar island: imputed 622 soil types as 'alluvial'
+2025-08-17 19:03:48: State chandigarh: imputed 101 soil types as 'alluvial'
+2025-08-17 19:03:48: State dadra and nagar haveli: imputed 795 soil types as 'alluvial'
+2025-08-17 19:03:48: State daman and diu: imputed 41 soil types as 'alluvial'
+2025-08-17 19:03:48: Imputing 481758 missing rainfall values
+2025-08-17 19:03:48: State assam: imputed 239948 rainfall values as 2500mm
+2025-08-17 19:03:48: State karnataka: imputed 1337 rainfall values as 1200mm
+2025-08-17 19:03:48: State meghalaya: imputed 640 rainfall values as 1000mm
+2025-08-17 19:03:49: State west bengal: imputed 1034 rainfall values as 1500mm
+2025-08-17 19:03:49: State puducherry: imputed 575 rainfall values as 1000mm
+2025-08-17 19:03:49: State goa: imputed 2789 rainfall values as 1000mm
+2025-08-17 19:03:49: State andhra pradesh: imputed 130181 rainfall values as 900mm
+2025-08-17 19:03:49: State odisha: imputed 732 rainfall values as 1400mm
+2025-08-17 19:03:49: State gujarat: imputed 96946 rainfall values as 800mm
+2025-08-17 19:03:49: State madhya pradesh: imputed 839 rainfall values as 1100mm
+2025-08-17 19:03:49: State maharashtra: imputed 735 rainfall values as 1200mm
+2025-08-17 19:03:49: State mizoram: imputed 413 rainfall values as 1000mm
+2025-08-17 19:03:49: State uttar pradesh: imputed 802 rainfall values as 1000mm
+2025-08-17 19:03:49: State haryana: imputed 551 rainfall values as 600mm
+2025-08-17 19:03:49: State tripura: imputed 427 rainfall values as 1000mm
+2025-08-17 19:03:49: State nagaland: imputed 652 rainfall values as 1000mm
+2025-08-17 19:03:49: State delhi: imputed 338 rainfall values as 1000mm
+2025-08-17 19:03:49: State manipur: imputed 428 rainfall values as 1000mm
+2025-08-17 19:03:49: State jammu and kashmir: imputed 607 rainfall values as 1000mm
+2025-08-17 19:03:50: State sikkim: imputed 225 rainfall values as 1000mm
+2025-08-17 19:03:50: State andaman and nicobar island: imputed 622 rainfall values as 1000mm
+2025-08-17 19:03:50: State chandigarh: imputed 101 rainfall values as 1000mm
+2025-08-17 19:03:50: State dadra and nagar haveli: imputed 795 rainfall values as 1000mm
+2025-08-17 19:03:50: State daman and diu: imputed 41 rainfall values as 1000mm
+2025-08-17 19:03:50: Imputing 29059 missing values in Year
+2025-08-17 19:04:43: Imputing 29059 missing values in Area
+2025-08-17 19:04:47: === COMPREHENSIVE DATA VALIDATION ===
+2025-08-17 19:04:49: Column District: found 18673 unknown values
+2025-08-17 19:04:49: Replaced with mode value: kurnool
+2025-08-17 19:04:51: Final dataset shape: (1013821, 10)
+2025-08-17 19:04:51: Final yield range: 0.130 - 50.000 t/ha
+2025-08-17 19:04:51: Yield std deviation: 5.919
+2025-08-17 19:04:51: === CREATING ADVANCED FEATURES ===
+2025-08-17 19:04:51: Created state_crop interaction feature
+2025-08-17 19:04:51: Created crop_season interaction feature
+2025-08-17 19:04:51: Created rainfall category feature
+2025-08-17 19:04:51: Created year category feature
+2025-08-17 19:04:51: Created climate zone feature
+2025-08-17 19:04:52: Final training data: X=(1013821, 14), y=(1013821,)
+2025-08-17 19:04:52: Target variable stats: min=0.130, max=50.000, mean=2.864, std=5.919
+2025-08-17 19:04:52: === STARTING ENHANCED MODEL TRAINING ===
+2025-08-17 19:04:54: Split: Train=706632, Val=155115, Test=152074
+2025-08-17 19:04:55: Features: 4 numeric, 8 categorical
+2025-08-17 19:04:55: Training XGBoost...
+2025-08-17 19:05:19: XGBoost - Validation R²: 0.9241, MAE: 0.7018
+2025-08-17 19:05:19: XGBoost - Predictions: -1.533 to 48.183, std: 5.620
+2025-08-17 19:05:19: Training RandomForest...
+2025-08-17 19:14:30: RandomForest - Validation R²: 0.9042, MAE: 0.8674
+2025-08-17 19:14:30: RandomForest - Predictions: 0.484 to 49.246, std: 5.581
+2025-08-17 19:14:30: Best model: XGBoost with R²=0.9241
+2025-08-17 19:14:31: FINAL TEST PERFORMANCE:
+2025-08-17 19:14:31: R² Score: 0.9277
+2025-08-17 19:14:31: MAE: 0.6929
+2025-08-17 19:14:31: RMSE: 1.5893
+2025-08-17 19:14:31: Test predictions range: -1.526 - 48.135
+2025-08-17 19:14:31: TOP 10 IMPORTANT FEATURES:
+2025-08-17 19:14:31:  1. cat__Crop Name_sugarcane: 0.4477
+2025-08-17 19:14:31:  2. cat__crop_season_sugarcane_whole_year: 0.1725
+2025-08-17 19:14:31:  3. cat__climate_zone_temperate: 0.0968
+2025-08-17 19:14:31:  4. cat__Crop Name_onion: 0.0493
+2025-08-17 19:14:31:  5. cat__State_chhattisgarh: 0.0417
+2025-08-17 19:14:31:  6. cat__state_crop_assam_jute: 0.0220
+2025-08-17 19:14:31:  7. cat__Soil Type_black: 0.0148
+2025-08-17 19:14:31:  8. cat__Soil Type_alluvial: 0.0131
+2025-08-17 19:14:31:  9. cat__Crop Name_bajra: 0.0114
+2025-08-17 19:14:31: 10. cat__State_arunachal_pradesh: 0.0103
+2025-08-17 19:14:31: Badge thresholds: {'A': 3.89, 'B': 1.85, 'C': 1.01, 'D': 0.67, 'F': 0.13}
+2025-08-17 19:14:33: Model saved: yield_model.pkl
+2025-08-17 19:14:33: Schema saved: feature_schema.json
+2025-08-17 19:14:33: Thresholds saved: badge_thresholds.json
+2025-08-17 19:14:33: === GENERATING VALIDATION REPORT ===
+2025-08-17 19:14:33: CRITICAL ERROR during training: index 1017955 is out of bounds for axis 0 with size 1013821

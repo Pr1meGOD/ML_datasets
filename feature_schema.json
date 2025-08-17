@@ -1,0 +1,34 @@
+{
+  "numeric_cols": [
+    "Production",
+    "Rainfall (mm)",
+    "Year",
+    "Area"
+  ],
+  "categorical_cols": [
+    "State",
+    "District",
+    "Crop Name",
+    "Crop Season",
+    "Soil Type",
+    "state_crop",
+    "crop_season",
+    "climate_zone"
+  ],
+  "all_cols": [
+    "State",
+    "District",
+    "Crop Name",
+    "Crop Season",
+    "Soil Type",
+    "Production",
+    "Rainfall (mm)",
+    "Year",
+    "Area",
+    "state_crop",
+    "crop_season",
+    "rainfall_category",
+    "year_category",
+    "climate_zone"
+  ]
+}

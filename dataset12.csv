@@ -1,0 +1,112 @@
+Latitude,Longitude,Crop Type,City Name,Temperature,Humidity,Wind Speed,Weather Description,2023 IN MM,2022 IN MM,Profitability 2022,Profitability 2023,Soil Acidity Level,Farmer id
+19.07609,139.691711,Cotton,Agra,15,55,9,Clear,532,551,1,5,3,1
+19.07609,37.617298,Passion Fruit,Ahmedabad,1,32,12,Clear,729,705,5,1,5,2
+19.07609,-74.005974,Oats,Aizawl,17,22,27,Sunny,928,799,1,1,3,3
+19.07609,-118.243683,Beetroot,Ajmer,18,54,7,Sunny,868,916,1,1,1,4
+19.07609,13.404954,Ashwagandha,Aligarh,10,43,22,Clear,723,908,5,1,3,5
+19.07609,2.352222,Cotton,Allahabad (Prayagraj),12,100,12,Light Rain,686,996,1,1,3,6
+19.07609,-0.127758,Cucumber,Amaravati,13,82,8,Clear,728,579,1,1,5,7
+19.07609,-122.419418,Cotton,Ambala,14,77,11,Partly cloudy,717,586,5,1,1,8
+19.07609,72.877426,Bitter Gourd,Amritsar,27,74,8,Haze,1066,1178,5,1,5,9
+19.07609,70.800705,Mushrooms,Aurangabad,27,30,9,Clear ,719,528,1,5,3,10
+22.308155,37.617298,Papaya,Bangalore (Bengaluru),1,32,12,Clear,894,973,1,5,1,11
+22.308155,13.404954,Bitter Gourd,Bareilly,10,43,22,Clear,668,754,1,1,3,12
+22.308155,-118.243683,Drumstick,Belgaum (Belagavi),18,54,7,Sunny,1417,1357,1,1,5,13
+22.308155,2.352222,Cotton,Bhagalpur,12,100,12,Light Rain,896,734,1,1,1,14
+22.308155,-0.127758,Cucumber,Bharatpur,13,82,8,Clear,1690,1168,5,5,3,15
+22.308155,-122.419418,Millets,Bhatinda,14,77,11,Partly cloudy,764,839,1,1,1,16
+22.308155,139.691711,Coriander (Dhaniya),Bhilai,15,55,6,Clear,883,849,1,1,1,17
+22.308155,72.877426,Kiwi,Bhiwandi,27,74,8,Haze,701,836,5,5,5,18
+22.308155,-0.127758,Linseed,Bhopal,13,82,7,Clear,962,826,1,5,3,19
+22.308155,70.800705,Oats,Bhubaneswar,27,30,9,Clear ,583,640,5,5,5,20
+22.308155,-74.005974,Linseed,Bikaner,17,22,33,Sunny,1043,1746,5,5,1,21
+22.308155,-122.419418,Garlic,Bilaspur,14,77,14,Partly cloudy,1990,2608,1,1,5,22
+22.308155,-118.243683,Cherry,Bokaro,18,54,10,Sunny,1006,974,1,5,3,23
+34.052235,70.800705,Cocoa,Chandigarh,27,30,9,Clear ,587,736,1,1,5,24
+34.052235,-122.419418,Black Gram,Chennai,14,77,14,Partly cloudy,868,1126,5,5,1,25
+34.052235,139.691711,Jute,Coimbatore,15,55,6,Clear,907,716,1,5,5,26
+34.052235,37.617298,Groundnut,Cuttack,1,32,12,Clear,892,1091,1,5,3,27
+34.052235,-118.243683,Jute,Dehradun,18,54,10,Sunny,1402,1892,5,1,1,28
+34.052235,-74.005974,Bottle Gourd,Delhi,17,22,33,Sunny,558,518,5,5,3,29
+34.052235,-0.127758,Papaya,Dhanbad,13,82,7,Clear,1256,1669,1,5,5,30
+34.052235,2.352222,Beans,Dibrugarh,12,100,12,Light Rain,1933,2726,1,1,1,31
+34.052235,13.404954,Quinoa,Durgapur,10,43,22,Clear,721,928,1,1,3,32
+34.052235,72.877426,Chili,Faridabad,27,74,8,Haze,2390,3332,5,5,1,33
+35.689487,-122.419418,Apple,Firozabad,14,77,14,Partly cloudy,948,1038,1,1,1,34
+35.689487,13.404954,Pineapple,Gandhinagar,10,43,22,Clear,532,551,5,1,5,35
+35.689487,70.800705,Bottle Gourd,Ghaziabad,27,30,9,Clear ,729,705,1,5,3,36
+35.689487,-0.127758,Ginger,Gorakhpur,13,82,7,Clear,928,799,1,1,5,37
+35.689487,72.877426,Tomato,Gulbarga (Kalaburagi),27,74,8,Haze,868,916,5,1,1,38
+35.689487,37.617298,Tobacco,Guntur,1,32,12,Clear,723,908,5,1,5,39
+35.689487,-118.243683,Lychee,Gurgaon (Gurugram),18,54,10,Sunny,686,996,5,1,3,40
+35.689487,-74.005974,Lemon,Guwahati,17,22,33,Sunny,728,579,5,5,5,41
+35.689487,2.352222,Banana,Gwalior,12,100,12,Light Rain,717,586,1,5,3,42
+35.689487,139.691711,Blueberry,Hubli-Dharwad,15,55,6,Clear,1066,1178,5,1,1,43
+35.689487,-122.419418,Beetroot,Hyderabad,14,81,14,Partly cloudy,719,528,1,1,3,44
+37.774929,70.800705,Groundnut,Imphal,27,30,9,Clear ,894,973,5,1,3,45
+37.774929,139.691711,Linseed,Indore,15,55,6,Clear,668,754,1,5,5,46
+37.774929,37.617298,Green Gram,Jabalpur,1,32,12,Clear,1417,1357,5,5,1,47
+37.774929,-118.243683,Cotton,Jaipur,18,54,10,Sunny,896,734,1,5,5,48
+37.774929,-122.419418,Papaya,Jalandhar,14,77,14,Partly cloudy,1690,1168,1,1,3,49
+37.774929,-74.005974,Date Palm,Jammu,17,22,33,Sunny,764,839,1,1,1,50
+37.774929,-0.127758,Papaya,Jamshedpur,13,82,7,Clear,883,849,5,5,3,51
+37.774929,2.352222,Beetroot,Jhansi,12,100,12,Light Rain,701,836,1,1,5,52
+37.774929,13.404954,Papaya,Jodhpur,10,43,22,Clear,962,826,5,1,1,53
+37.774929,72.877426,Tea,Kannur,27,74,8,Haze,583,640,5,5,3,54
+40.712776,2.352222,Chickpeas,Kanpur,12,100,12,Light Rain,1043,1746,5,5,1,55
+40.712776,70.800705,Aloe Vera,Karnal,27,30,9,Clear ,1990,2608,1,5,1,56
+40.712776,-122.419418,Jatropha,Kochi,14,77,14,Partly cloudy,1006,974,5,1,5,57
+40.712776,13.404954,Cowpea,Kohima,10,43,22,Clear,587,736,5,1,3,58
+40.712776,-0.127758,Black Gram,Kolhapur,13,82,7,Clear,868,1126,1,1,5,59
+40.712776,72.877426,Strawberry,Kolkata,27,74,8,Haze,907,716,5,5,1,60
+40.712776,37.617298,Quinoa,Kollam,1,32,12,Clear,892,1091,5,1,5,61
+40.712776,-118.243683,Quinoa,Kota,18,54,10,Sunny,1402,1892,5,1,3,62
+40.712776,-74.005974,Date Palm,Kozhikode,17,22,33,Sunny,558,518,5,1,5,63
+40.712776,139.691711,Cardamom,Kurnool,15,55,6,Clear,1256,1669,5,5,1,64
+40.712776,-122.419418,Coconut,Lucknow,14,81,14,Partly cloudy,1933,2726,5,1,5,65
+40.712776,-0.127758,Cardamom,Ludhiana,11,87,7,Partly cloudy,721,928,1,1,3,66
+40.712776,-118.243683,Bael,Madurai,21,39,10,Sunny,2390,3332,5,5,1,67
+40.712776,13.404954,Sunflower,Mangalore (Mangaluru),10,46,22,Clear,948,1038,1,5,3,68
+40.712776,-74.005974,Wheat,Mathura,16,22,33,Overcast,532,551,1,1,5,69
+48.856613,70.800705,Bitter Gourd,Meerut,27,30,9,Clear ,729,705,1,5,1,70
+48.856613,2.352222,Broccoli,Moradabad,12,100,12,Light Rain,928,799,1,1,3,71
+48.856613,-0.127758,Bottle Gourd,Mumbai,11,87,7,Partly cloudy,868,916,1,1,1,72
+48.856613,37.617298,Lettuce,Mysore (Mysuru),0,34,12,Clear,723,908,5,5,1,73
+48.856613,139.691711,Tulsi,Nagpur,15,55,6,Clear,686,996,5,5,5,74
+48.856613,-118.243683,Jute,Nashik,21,39,10,Sunny,728,579,5,5,3,75
+48.856613,72.877426,Soybean,Nellore,27,74,8,Haze,717,586,5,1,5,76
+48.856613,13.404954,Betel Leaf,Noida,10,46,22,Clear,1066,1178,1,5,1,77
+48.856613,-74.005974,Quinoa,Patna,16,22,33,Overcast,719,528,5,5,5,78
+48.856613,-122.419418,Turmeric,Pondicherry (Puducherry),14,81,14,Partly cloudy,894,973,5,1,1,79
+51.507351,139.691711,Onion,Pune,15,55,6,Clear,668,754,5,5,1,80
+51.507351,2.352222,Pomegranate,Raipur,12,100,12,Light Rain,1417,1357,1,1,3,81
+51.507351,-0.127758,Banana,Rajahmundry,11,87,7,Partly cloudy,896,734,1,5,5,82
+51.507351,-0.127758,Orange,Rajkot,12,88,7,Partly cloudy,1690,1168,1,5,5,83
+51.507351,-74.005974,Cumin,Ranchi,16,22,33,Overcast,764,839,1,5,3,84
+51.507351,-122.419418,Green Gram,Rourkela,14,81,14,Partly cloudy,883,849,1,5,5,85
+51.507351,72.877426,Horse Gram,Salem,27,74,8,Haze,701,836,1,1,5,86
+51.507351,13.404954,Shatavari,Siliguri,10,46,22,Clear,962,826,5,1,3,87
+51.507351,-118.243683,Red Gram,Solapur,21,39,10,Sunny,583,640,5,5,1,88
+51.507351,70.800705,Drumstick,Srinagar,27,30,9,Clear ,1043,1746,1,5,5,89
+51.507351,37.617298,Betel Leaf,Surat,0,34,12,Clear,1990,2608,1,1,3,90
+52.520008,13.404954,Coconut,Thane,10,46,22,Clear,1006,974,1,1,3,91
+52.520008,2.352222,Cabbage,Thiruvananthapuram,12,100,12,Light Rain,587,736,1,1,1,92
+52.520008,-122.419418,Rubber,Thrissur,14,81,14,Partly cloudy,868,1126,5,5,5,93
+52.520008,13.404954,Papaya,Tiruchirappalli,9,50,22,Clear,907,716,5,5,3,94
+52.520008,-74.005974,Bamboo Shoots,Tirunelveli,16,22,33,Overcast,892,1091,1,1,1,95
+52.520008,-118.243683,Avocado,Tirupati,21,39,10,Sunny,1402,1892,1,1,3,96
+52.520008,-0.127758,Blueberry,Udaipur,12,88,7,Partly cloudy,558,518,1,5,3,97
+52.520008,70.800705,Muskmelon,Ujjain,27,30,9,Clear ,1256,1669,5,5,5,98
+52.520008,72.877426,Avocado,Vadodara,27,74,8,Haze,1933,2726,5,1,3,99
+52.520008,139.691711,Arecanut,Varanasi,15,55,6,Clear,721,928,1,1,1,100
+52.520008,37.617298,Moringa,Vellore,0,34,12,Clear,2390,3332,1,5,1,101
+55.755825,13.404954,Oats,Vijayawada,9,50,22,Clear,948,1038,5,1,3,102
+55.755825,70.800705,Rye,Visakhapatnam,27,30,9,Clear ,532,551,1,5,5,103
+55.755825,-118.243683,Turmeric,Warangal,21,39,10,Sunny,729,705,5,5,5,104
+55.755825,-122.419418,Chickpeas,Yamunanagar,14,81,14,Partly cloudy,928,799,5,5,3,105
+55.755825,139.691711,Bael,Yavatmal,15,55,6,Clear,868,916,5,1,1,106
+55.755825,-0.127758,Coconut,Satna,12,88,7,Partly cloudy,723,908,1,1,5,107
+55.755825,37.617298,Fennel,Rewa,0,34,12,Clear,686,996,5,1,3,108
+55.755825,72.877426,Cumin,Bhavnagar,27,74,8,Haze,728,579,1,5,5,109
+55.755825,-74.005974,Turmeric,Karimnagar,16,22,33,Overcast,717,586,1,5,1,110
+55.755825,2.352222,Pigeon Pea,Sambalpur,12,100,12,Light Rain,1066,1178,5,1,3,111

@@ -1,0 +1,19 @@
+{
+  "input_file": "billashot_final_merged.csv",
+  "output_file": "final_training_dataset.csv",
+  "total_rows_scanned_est": 4066204,
+  "rows_written": 3893937,
+  "rows_flagged_impossible": 57902,
+  "yield_converted_kg_to_t": false,
+  "numeric_candidates": [
+    "Yield",
+    "Production",
+    "Rainfall (mm)",
+    "Year",
+    "Area"
+  ],
+  "missing_fraction_file": "eda_plots\\missing_fraction.json",
+  "text_examples_file": "eda_plots\\text_examples.json",
+  "numeric_sample_stats_file": "eda_plots\\numeric_sample_stats.json",
+  "outlier_counts_file": "eda_plots\\outlier_counts.json"
+}
